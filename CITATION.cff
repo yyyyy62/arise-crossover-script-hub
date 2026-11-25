@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Arise Crossover Roblox Script Hub, Shadow Auto-Farm & Dungeon Macro"
+abstract: "Arise Crossover Roblox Script Hub, Shadow Auto-Farm & Dungeon Macro for PC & Mobile Executors — Modular Luau script suite with auto-quest."
+authors:
+  - alias: "v-mysusanja-j58"
+    name: "v-mysusanja-j58"
+version: "3.5.5"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/v-mysusanja-j58/arise-crossover-script-hub"
+url: "https://v-mysusanja-j58.github.io/arise-crossover-script-hub/"
